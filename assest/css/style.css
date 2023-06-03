@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,700&display=swap');
+@font-face {
+    font-family: cnc;
+    src: url(../fonts/atwriter.ttf);
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.online{
+    font-family: 'Merriweather', serif;
+}
+.custom{
+    font-family: cnc;
+}
